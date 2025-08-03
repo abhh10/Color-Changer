@@ -17,6 +17,7 @@ colors.forEach(function(color) {
         }
         // Add more colors as needed
         // You can also use a switch statement or an object map for better scalability
+        // Example for a switch statement:
     });
 });
 
