@@ -15,6 +15,8 @@ colors.forEach(function(color) {
         if (e.target.className === "square yellow") {
             bod.style.backgroundColor = "yellow";
         }
+        // Add more colors as needed
+        // You can also use a switch statement or an object map for better scalability
     });
 });
 
